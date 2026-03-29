@@ -166,8 +166,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Nishanta**  
-🔗 [GitHub Profile](https://github.com/Nishanta-13)
+**Subhadeep Deb**  
+🔗 [GitHub Profile](https://github.com/coderSubhadeepdeb)
 
 ---
 
